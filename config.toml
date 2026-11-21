@@ -1,0 +1,2 @@
+[server]
+maxUploadSize = 2000   # MB; mặc định Streamlit chỉ cho 200 MB

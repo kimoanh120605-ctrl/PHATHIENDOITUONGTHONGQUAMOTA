@@ -1,0 +1,11 @@
+ultralytics>=8.3
+torch
+transformers
+faiss-cpu        # hoặc faiss-gpu
+opencv-python
+pillow
+numpy
+anthropic        # tùy chọn: dịch/phân tích truy vấn tiếng Việt
+streamlit
+altair
+pandas
