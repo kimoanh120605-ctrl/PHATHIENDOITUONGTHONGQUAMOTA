@@ -16,3 +16,4 @@ streamlit run app.py
 ```
 Nhập mô tả, xem timeline các khoảnh khắc khớp, chọn kết quả để xem clip có vẽ khung, tải clip về
 và xem quỹ đạo di chuyển. Nên cài `ffmpeg` để clip phát được trong trình duyệt (chuyển sang H.264).
+# PHATHIENDOITUONGTHONGQUAMOTA
